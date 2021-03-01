@@ -110,7 +110,7 @@ docker run \
 * **首页-积分查询-游戏任务**
 
 ```sh
-node index.js unicom --user 131*******12 --password 11****11 --appid f7af****ebb
+node index.js unicom --user 18579611*** --password 11****11 --appid f7af****ebb
 ```
 
 ### docker部署
@@ -167,9 +167,3 @@ docker run \
 ## 指定任务模式，可以指定仅需要运行的子任务，多用户使用规则参看`多用户配置`
 #增加 --tasks taskName1,taskName2,taskName3
 ```
-
-### GitHub Actions 运行问题
-
-1.将本代码仓库fork到自己的github。  
-2.点击Settings选项卡，点击左侧Secrets，点击New secret，创建对应参数，这些值不会被公开。  
-3.点击Actions选项卡，自己修改。  
