@@ -30,7 +30,7 @@ docker run \
   auto-sign-machine:latest
 ```
 
-## 52pojie签到任务
+## 52pojie签到
 **实现现52pojie帐号的每日签到任务。**
 
 ```sh
